@@ -6,3 +6,19 @@ body {
   width: 100%;
 }
 
+#calendar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  clear: both;
+  width: 100%;
+}
+
+#calendar li {
+  float: left;
+  display: block;
+  width: 14.28571428571429%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  margin: 0 -1px -1px 0;
+}
