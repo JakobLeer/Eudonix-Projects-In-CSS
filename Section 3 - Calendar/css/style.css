@@ -45,3 +45,15 @@ body {
 #calendar .days li:hover {
   background: #eee;
 }
+
+#calendar .date {
+  background: #333;
+  color: white;
+  width: 22px;
+  line-height: 22px;
+  border-radius: 50%;
+  padding: 3px;
+  margin: 5px;
+  text-align: center;
+  float: right;
+}
