@@ -22,3 +22,18 @@ body {
   border: 1px solid #ccc;
   margin: 0 -1px -1px 0;
 }
+
+#calendar ul.weekdays {
+  height: 40px;
+  background: #333;
+}
+
+#calendar ul.weekdays li {
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 20px;
+  border: none !important;
+  padding: 10px 6px;
+  color: white;
+  font-size: 13px;
+}
