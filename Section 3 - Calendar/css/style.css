@@ -74,3 +74,7 @@ body {
   color: #666;
   margin: 3px 0 7px 0;
 }
+
+#calendar .other-month {
+  background: #f5f5f5;
+}
